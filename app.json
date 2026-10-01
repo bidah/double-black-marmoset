@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "double-black-marmoset",
+    "slug": "double-black-marmoset",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.doubleblackmarmoset" },
+    "scheme": "doubleblackmarmoset"
+  }
+}
